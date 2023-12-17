@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'maax';
+    src: url('../font/Maax.woff') format('woff'),
+         url('../font/Maax.ttf') format('truetype'),
+         url('../font/Maax.eot') format('embedded-opentype');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'maaxmedium';
+    src: url('../font/Maax-Medium.woff') format('woff'),
+         url('../font/Maax-Medium.ttf') format('truetype'),
+         url('../font/Maax-Medium.eot') format('embedded-opentype');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'maaxbold';
+    src: url('../font/Maax-Bold.woff') format('woff'),
+         url('../font/Maax-Bold.ttf') format('truetype'),
+         url('../font/Maax-Bold.eot') format('embedded-opentype');
+    font-weight: 700;
+    font-style: normal;
+}
