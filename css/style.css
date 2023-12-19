@@ -34,7 +34,6 @@ header {
   height: 100%;
   width: 100%;
   color: black;
-  font-size: 500;
   background-color: white;
   align-items: center;
   display: flex;
@@ -934,7 +933,6 @@ footer {
   height: 100%;
   width: 100%;
   color: black;
-  font-size: 500;
   background-color: white;
   align-items: center;
   display: flex;
