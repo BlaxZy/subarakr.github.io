@@ -723,6 +723,11 @@ footer {
     color: #fff;
     font-size: 35px;
   }
+   .modal{
+    background: #000 !important;
+    color: #fff !important;
+    font-size: 35px !important;
+  }
   .header__content.active {
     background: #000;
     transition: 0.5s;
